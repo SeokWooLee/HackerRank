@@ -29,6 +29,7 @@
 		8DF747E3225DBD43004F455A /* Day 1- Data Types.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 1- Data Types.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		8DF747E4225DBD9A004F455A /* Day 2- Operators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 2- Operators.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		8DF747E5225DC183004F455A /* Day 3- Intro to Conditional Statements.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 3- Intro to Conditional Statements.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		8DF747E8225DC1E6004F455A /* Sock Merchant.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Sock Merchant.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +62,7 @@
 		8DF747D6225DBB14004F455A /* HackerRank */ = {
 			isa = PBXGroup;
 			children = (
+				8DF747E6225DC1C0004F455A /* Interview Preparation Kit */,
 				8DF747DE225DBB7B004F455A /* 30 Days of Code */,
 				8DF747D7225DBB14004F455A /* main.swift */,
 			);
@@ -76,6 +78,22 @@
 				8DF747E5225DC183004F455A /* Day 3- Intro to Conditional Statements.playground */,
 			);
 			path = "30 Days of Code";
+			sourceTree = "<group>";
+		};
+		8DF747E6225DC1C0004F455A /* Interview Preparation Kit */ = {
+			isa = PBXGroup;
+			children = (
+				8DF747E7225DC1CE004F455A /* Warm-up Challenges */,
+			);
+			path = "Interview Preparation Kit";
+			sourceTree = "<group>";
+		};
+		8DF747E7225DC1CE004F455A /* Warm-up Challenges */ = {
+			isa = PBXGroup;
+			children = (
+				8DF747E8225DC1E6004F455A /* Sock Merchant.playground */,
+			);
+			path = "Warm-up Challenges";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
