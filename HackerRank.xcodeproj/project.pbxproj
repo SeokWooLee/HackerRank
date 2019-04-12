@@ -40,6 +40,7 @@
 		8DF747F12260633C004F455A /* Day 7- Arrays.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 7- Arrays.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		8DF747F2226088D4004F455A /* Day 8- Dictionaries and Maps.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 8- Dictionaries and Maps.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		8DF747F322608CA0004F455A /* Day 9- Recursion 3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 9- Recursion 3.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		8DF747F422609ADB004F455A /* Day 10- Binary Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 10- Binary Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +94,7 @@
 				8DF747F12260633C004F455A /* Day 7- Arrays.playground */,
 				8DF747F2226088D4004F455A /* Day 8- Dictionaries and Maps.playground */,
 				8DF747F322608CA0004F455A /* Day 9- Recursion 3.playground */,
+				8DF747F422609ADB004F455A /* Day 10- Binary Numbers.playground */,
 			);
 			path = "30 Days of Code";
 			sourceTree = "<group>";
