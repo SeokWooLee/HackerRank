@@ -36,6 +36,7 @@
 		8DF747ED22605D2A004F455A /* Birthday Cake Candles.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Birthday Cake Candles.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		8DF747EE22605DB0004F455A /* Day 4- Class vs. Instance.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 4- Class vs. Instance.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		8DF747EF22605F48004F455A /* Day 5- Loops.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 5- Loops.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		8DF747F022605FD1004F455A /* Day 6- Let's Review.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 6- Let's Review.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +86,7 @@
 				8DF747E5225DC183004F455A /* Day 3- Intro to Conditional Statements.playground */,
 				8DF747EE22605DB0004F455A /* Day 4- Class vs. Instance.playground */,
 				8DF747EF22605F48004F455A /* Day 5- Loops.playground */,
+				8DF747F022605FD1004F455A /* Day 6- Let's Review.playground */,
 			);
 			path = "30 Days of Code";
 			sourceTree = "<group>";
