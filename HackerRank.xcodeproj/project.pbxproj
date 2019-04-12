@@ -32,6 +32,7 @@
 		8DF747E8225DC1E6004F455A /* Sock Merchant.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Sock Merchant.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		8DF747EA22605C7E004F455A /* Plus Minus.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Plus Minus.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		8DF747EB22605CBE004F455A /* Staircase.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Staircase.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		8DF747EC22605CF3004F455A /* Mini-Max Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Mini-Max Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +105,7 @@
 			children = (
 				8DF747EA22605C7E004F455A /* Plus Minus.playground */,
 				8DF747EB22605CBE004F455A /* Staircase.playground */,
+				8DF747EC22605CF3004F455A /* Mini-Max Sum.playground */,
 			);
 			path = "Problem Solving";
 			sourceTree = "<group>";
