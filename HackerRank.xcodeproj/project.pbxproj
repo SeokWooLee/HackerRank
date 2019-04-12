@@ -41,6 +41,7 @@
 		8DF747F2226088D4004F455A /* Day 8- Dictionaries and Maps.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 8- Dictionaries and Maps.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		8DF747F322608CA0004F455A /* Day 9- Recursion 3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 9- Recursion 3.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		8DF747F422609ADB004F455A /* Day 10- Binary Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 10- Binary Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		8DF747F522609D69004F455A /* Time Conversion.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Time Conversion.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +123,7 @@
 				8DF747EB22605CBE004F455A /* Staircase.playground */,
 				8DF747EC22605CF3004F455A /* Mini-Max Sum.playground */,
 				8DF747ED22605D2A004F455A /* Birthday Cake Candles.playground */,
+				8DF747F522609D69004F455A /* Time Conversion.playground */,
 			);
 			path = "Problem Solving";
 			sourceTree = "<group>";
