@@ -26,6 +26,7 @@
 		8DB07A612261A58000179156 /* Day 11- 2D Arrays.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 11- 2D Arrays.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		8DB07A622261AAEC00179156 /* Grading Students.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Grading Students.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		8DB07A632261AD9D00179156 /* Apple and Orange.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Apple and Orange.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		8DB07A642261AF1100179156 /* Kangaroo.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Kangaroo.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		8DF747D4225DBB14004F455A /* HackerRank */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = HackerRank; sourceTree = BUILT_PRODUCTS_DIR; };
 		8DF747D7225DBB14004F455A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		8DF747E1225DBC18004F455A /* Day 0- Hello, World..playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 0- Hello, World..playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -130,6 +131,7 @@
 				8DF747F522609D69004F455A /* Time Conversion.playground */,
 				8DB07A622261AAEC00179156 /* Grading Students.playground */,
 				8DB07A632261AD9D00179156 /* Apple and Orange.playground */,
+				8DB07A642261AF1100179156 /* Kangaroo.playground */,
 			);
 			path = "Problem Solving";
 			sourceTree = "<group>";
