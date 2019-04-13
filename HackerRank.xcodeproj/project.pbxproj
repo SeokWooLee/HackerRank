@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8DB07A6B2262040C00179156 /* Math.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DB07A6A2262040C00179156 /* Math.swift */; };
 		8DF747D8225DBB14004F455A /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DF747D7225DBB14004F455A /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -27,6 +28,8 @@
 		8DB07A622261AAEC00179156 /* Grading Students.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Grading Students.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		8DB07A632261AD9D00179156 /* Apple and Orange.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Apple and Orange.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		8DB07A642261AF1100179156 /* Kangaroo.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Kangaroo.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		8DB07A652261C7F200179156 /* Between Two Sets.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Between Two Sets.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		8DB07A6A2262040C00179156 /* Math.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Math.swift; sourceTree = "<group>"; };
 		8DF747D4225DBB14004F455A /* HackerRank */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = HackerRank; sourceTree = BUILT_PRODUCTS_DIR; };
 		8DF747D7225DBB14004F455A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		8DF747E1225DBC18004F455A /* Day 0- Hello, World..playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 0- Hello, World..playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -59,6 +62,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		8DB07A69226203FE00179156 /* Convenience */ = {
+			isa = PBXGroup;
+			children = (
+				8DB07A6A2262040C00179156 /* Math.swift */,
+			);
+			path = Convenience;
+			sourceTree = "<group>";
+		};
 		8DF747CB225DBB14004F455A = {
 			isa = PBXGroup;
 			children = (
@@ -78,6 +89,7 @@
 		8DF747D6225DBB14004F455A /* HackerRank */ = {
 			isa = PBXGroup;
 			children = (
+				8DB07A69226203FE00179156 /* Convenience */,
 				8DF747E9225DC217004F455A /* Problem Solving */,
 				8DF747E6225DC1C0004F455A /* Interview Preparation Kit */,
 				8DF747DE225DBB7B004F455A /* 30 Days of Code */,
@@ -132,6 +144,7 @@
 				8DB07A622261AAEC00179156 /* Grading Students.playground */,
 				8DB07A632261AD9D00179156 /* Apple and Orange.playground */,
 				8DB07A642261AF1100179156 /* Kangaroo.playground */,
+				8DB07A652261C7F200179156 /* Between Two Sets.playground */,
 			);
 			path = "Problem Solving";
 			sourceTree = "<group>";
@@ -194,6 +207,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8DF747D8225DBB14004F455A /* main.swift in Sources */,
+				8DB07A6B2262040C00179156 /* Math.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
