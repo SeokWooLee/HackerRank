@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		8DB07A612261A58000179156 /* Day 11- 2D Arrays.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 11- 2D Arrays.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		8DF747D4225DBB14004F455A /* HackerRank */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = HackerRank; sourceTree = BUILT_PRODUCTS_DIR; };
 		8DF747D7225DBB14004F455A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		8DF747E1225DBC18004F455A /* Day 0- Hello, World..playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 0- Hello, World..playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -96,6 +97,7 @@
 				8DF747F2226088D4004F455A /* Day 8- Dictionaries and Maps.playground */,
 				8DF747F322608CA0004F455A /* Day 9- Recursion 3.playground */,
 				8DF747F422609ADB004F455A /* Day 10- Binary Numbers.playground */,
+				8DB07A612261A58000179156 /* Day 11- 2D Arrays.playground */,
 			);
 			path = "30 Days of Code";
 			sourceTree = "<group>";
