@@ -24,6 +24,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		3367346E2266BD2C00AAB8B2 /* Day 12- Inheritance.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 12- Inheritance.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		8DB07A612261A58000179156 /* Day 11- 2D Arrays.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 11- 2D Arrays.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		8DB07A622261AAEC00179156 /* Grading Students.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Grading Students.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		8DB07A632261AD9D00179156 /* Apple and Orange.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Apple and Orange.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -113,6 +114,7 @@
 				8DF747F322608CA0004F455A /* Day 9- Recursion 3.playground */,
 				8DF747F422609ADB004F455A /* Day 10- Binary Numbers.playground */,
 				8DB07A612261A58000179156 /* Day 11- 2D Arrays.playground */,
+				3367346E2266BD2C00AAB8B2 /* Day 12- Inheritance.playground */,
 			);
 			path = "30 Days of Code";
 			sourceTree = "<group>";
