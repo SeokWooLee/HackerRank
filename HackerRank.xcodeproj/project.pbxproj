@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		8DB07A6B2262040C00179156 /* Math.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DB07A6A2262040C00179156 /* Math.swift */; };
+		8DB07A7A226A248E00179156 /* Day 13: Abstract Classes.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DB07A78226A248E00179156 /* Day 13: Abstract Classes.cpp */; };
 		8DF747D8225DBB14004F455A /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DF747D7225DBB14004F455A /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -32,6 +33,8 @@
 		8DB07A642261AF1100179156 /* Kangaroo.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Kangaroo.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		8DB07A652261C7F200179156 /* Between Two Sets.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Between Two Sets.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		8DB07A6A2262040C00179156 /* Math.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Math.swift; sourceTree = "<group>"; };
+		8DB07A78226A248E00179156 /* Day 13: Abstract Classes.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Day 13: Abstract Classes.cpp"; sourceTree = "<group>"; };
+		8DB07A79226A248E00179156 /* Day 13: Abstract Classes.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = "Day 13: Abstract Classes.hpp"; sourceTree = "<group>"; };
 		8DF747D4225DBB14004F455A /* HackerRank */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = HackerRank; sourceTree = BUILT_PRODUCTS_DIR; };
 		8DF747D7225DBB14004F455A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		8DF747E1225DBC18004F455A /* Day 0- Hello, World..playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 0- Hello, World..playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -116,6 +119,8 @@
 				8DF747F422609ADB004F455A /* Day 10- Binary Numbers.playground */,
 				8DB07A612261A58000179156 /* Day 11- 2D Arrays.playground */,
 				3367346E2266BD2C00AAB8B2 /* Day 12- Inheritance.playground */,
+				8DB07A78226A248E00179156 /* Day 13: Abstract Classes.cpp */,
+				8DB07A79226A248E00179156 /* Day 13: Abstract Classes.hpp */,
 			);
 			path = "30 Days of Code";
 			sourceTree = "<group>";
@@ -185,6 +190,7 @@
 				TargetAttributes = {
 					8DF747D3225DBB14004F455A = {
 						CreatedOnToolsVersion = 10.2;
+						LastSwiftMigration = 1020;
 					};
 				};
 			};
@@ -210,6 +216,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8DB07A7A226A248E00179156 /* Day 13: Abstract Classes.cpp in Sources */,
 				8DF747D8225DBB14004F455A /* main.swift in Sources */,
 				8DB07A6B2262040C00179156 /* Math.swift in Sources */,
 			);
@@ -336,9 +343,16 @@
 		8DF747DC225DBB14004F455A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = SUZFY35983;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
@@ -346,8 +360,14 @@
 		8DF747DD225DBB14004F455A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = SUZFY35983;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
