@@ -26,6 +26,7 @@
 
 /* Begin PBXFileReference section */
 		3367346E2266BD2C00AAB8B2 /* Day 12- Inheritance.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 12- Inheritance.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		33832AFA226D7DB2000F6952 /* Day 14- Scope.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 14- Scope.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33B8159D226727310047C820 /* Drawing Book.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Drawing Book.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		8DB07A612261A58000179156 /* Day 11- 2D Arrays.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 11- 2D Arrays.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		8DB07A622261AAEC00179156 /* Grading Students.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Grading Students.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -121,6 +122,7 @@
 				3367346E2266BD2C00AAB8B2 /* Day 12- Inheritance.playground */,
 				8DB07A78226A248E00179156 /* Day 13: Abstract Classes.cpp */,
 				8DB07A79226A248E00179156 /* Day 13: Abstract Classes.hpp */,
+				33832AFA226D7DB2000F6952 /* Day 14- Scope.playground */,
 			);
 			path = "30 Days of Code";
 			sourceTree = "<group>";
