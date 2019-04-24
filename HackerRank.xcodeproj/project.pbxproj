@@ -58,6 +58,7 @@
 		8DF747F522609D69004F455A /* Time Conversion.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Time Conversion.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		8DF8EEB22270B98A002E2FF8 /* Day 19: Interfaces.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Day 19: Interfaces.cpp"; sourceTree = "<group>"; };
 		8DF8EEB42270BAF5002E2FF8 /* Day 20- Sorting.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 20- Sorting.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		8DF8EEB52270BCFE002E2FF8 /* Day 21- Generics.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 21- Generics.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -128,6 +129,7 @@
 				33832AFB226D7EDF000F6952 /* Day 15- Linked List.playground */,
 				8DF8EEB22270B98A002E2FF8 /* Day 19: Interfaces.cpp */,
 				8DF8EEB42270BAF5002E2FF8 /* Day 20- Sorting.playground */,
+				8DF8EEB52270BCFE002E2FF8 /* Day 21- Generics.playground */,
 			);
 			path = "30 Days of Code";
 			sourceTree = "<group>";
