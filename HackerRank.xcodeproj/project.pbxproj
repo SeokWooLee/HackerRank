@@ -35,6 +35,7 @@
 		33B8159D226727310047C820 /* Drawing Book.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Drawing Book.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33C5CCC7227548D1009AB346 /* Day 22- Binary Search Trees.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 22- Binary Search Trees.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33C5CCC822756471009AB346 /* Day 23- BST Level-Order Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 23- BST Level-Order Traversal.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		33C754E5228B9E8800CBF1B6 /* Day 24- More Linked Lists  .playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 24- More Linked Lists  .playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		8DB07A612261A58000179156 /* Day 11- 2D Arrays.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 11- 2D Arrays.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		8DB07A622261AAEC00179156 /* Grading Students.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Grading Students.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		8DB07A632261AD9D00179156 /* Apple and Orange.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Apple and Orange.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -140,6 +141,7 @@
 				8DF8EEB52270BCFE002E2FF8 /* Day 21- Generics.playground */,
 				33C5CCC7227548D1009AB346 /* Day 22- Binary Search Trees.playground */,
 				33C5CCC822756471009AB346 /* Day 23- BST Level-Order Traversal.playground */,
+				33C754E5228B9E8800CBF1B6 /* Day 24- More Linked Lists  .playground */,
 			);
 			path = "30 Days of Code";
 			sourceTree = "<group>";
