@@ -27,6 +27,7 @@
 
 /* Begin PBXFileReference section */
 		3319CE8B228E39B300A439E4 /* Day 25- Running Time and Complexity.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 25- Running Time and Complexity.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		3319CEAA228EB51600A439E4 /* Day 26- Nested Logic.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 26- Nested Logic.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		331D5FF1226FF2E2007E7747 /* Day 16- Exceptions - String to Integer.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 16- Exceptions - String to Integer.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		331D5FF2226FF362007E7747 /* Day 17- More Exceptions.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 17- More Exceptions.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		331D5FF3226FF41C007E7747 /* Day 18- Queues and Stacks.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 18- Queues and Stacks.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -144,6 +145,7 @@
 				33C5CCC822756471009AB346 /* Day 23- BST Level-Order Traversal.playground */,
 				33C754E5228B9E8800CBF1B6 /* Day 24- More Linked Lists  .playground */,
 				3319CE8B228E39B300A439E4 /* Day 25- Running Time and Complexity.playground */,
+				3319CEAA228EB51600A439E4 /* Day 26- Nested Logic.playground */,
 			);
 			path = "30 Days of Code";
 			sourceTree = "<group>";
