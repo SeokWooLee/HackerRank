@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3388133A229F6211002E7A1F /* Day 27: Testing.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 33881339229F6211002E7A1F /* Day 27: Testing.cpp */; };
 		8DB07A6B2262040C00179156 /* Math.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DB07A6A2262040C00179156 /* Math.swift */; };
 		8DB07A7A226A248E00179156 /* Day 13: Abstract Classes.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DB07A78226A248E00179156 /* Day 13: Abstract Classes.cpp */; };
 		8DF747D8225DBB14004F455A /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DF747D7225DBB14004F455A /* main.swift */; };
@@ -34,6 +35,7 @@
 		3367346E2266BD2C00AAB8B2 /* Day 12- Inheritance.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 12- Inheritance.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33832AFA226D7DB2000F6952 /* Day 14- Scope.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 14- Scope.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33832AFB226D7EDF000F6952 /* Day 15- Linked List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 15- Linked List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		33881339229F6211002E7A1F /* Day 27: Testing.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Day 27: Testing.cpp"; sourceTree = "<group>"; };
 		33B8159D226727310047C820 /* Drawing Book.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Drawing Book.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33C5CCC7227548D1009AB346 /* Day 22- Binary Search Trees.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 22- Binary Search Trees.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33C5CCC822756471009AB346 /* Day 23- BST Level-Order Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 23- BST Level-Order Traversal.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -148,6 +150,7 @@
 				33C754E5228B9E8800CBF1B6 /* Day 24- More Linked Lists  .playground */,
 				3319CE8B228E39B300A439E4 /* Day 25- Running Time and Complexity.playground */,
 				3319CEAA228EB51600A439E4 /* Day 26- Nested Logic.playground */,
+				33881339229F6211002E7A1F /* Day 27: Testing.cpp */,
 			);
 			path = "30 Days of Code";
 			sourceTree = "<group>";
@@ -247,6 +250,7 @@
 			files = (
 				8DB07A7A226A248E00179156 /* Day 13: Abstract Classes.cpp in Sources */,
 				8DF8EEB32270B98A002E2FF8 /* Day 19: Interfaces.cpp in Sources */,
+				3388133A229F6211002E7A1F /* Day 27: Testing.cpp in Sources */,
 				8DF747D8225DBB14004F455A /* main.swift in Sources */,
 				8DB07A6B2262040C00179156 /* Math.swift in Sources */,
 			);
