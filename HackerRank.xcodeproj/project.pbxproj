@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		3388133A229F6211002E7A1F /* Day 27: Testing.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 33881339229F6211002E7A1F /* Day 27: Testing.cpp */; };
 		3393B1F722A0AD6E00225FA5 /* "Hello World!" in C.c in Sources */ = {isa = PBXBuildFile; fileRef = 3393B1F622A0AD6E00225FA5 /* "Hello World!" in C.c */; };
+		3393B1FB22A0ADEE00225FA5 /* Sum and Difference of Two Numbers.c in Sources */ = {isa = PBXBuildFile; fileRef = 3393B1FA22A0ADEE00225FA5 /* Sum and Difference of Two Numbers.c */; };
 		8DB07A6B2262040C00179156 /* Math.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DB07A6A2262040C00179156 /* Math.swift */; };
 		8DB07A7A226A248E00179156 /* Day 13: Abstract Classes.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DB07A78226A248E00179156 /* Day 13: Abstract Classes.cpp */; };
 		8DF747D8225DBB14004F455A /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DF747D7225DBB14004F455A /* main.swift */; };
@@ -39,6 +40,7 @@
 		33881339229F6211002E7A1F /* Day 27: Testing.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Day 27: Testing.cpp"; sourceTree = "<group>"; };
 		3393B1F322A0A48800225FA5 /* Divisible Sum Pairs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Divisible Sum Pairs.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		3393B1F622A0AD6E00225FA5 /* "Hello World!" in C.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "\"Hello World!\" in C.c"; sourceTree = "<group>"; };
+		3393B1FA22A0ADEE00225FA5 /* Sum and Difference of Two Numbers.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = "Sum and Difference of Two Numbers.c"; path = "../../../../Documents/Sum and Difference of Two Numbers.c"; sourceTree = "<group>"; };
 		33B8159D226727310047C820 /* Drawing Book.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Drawing Book.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33C5CCC7227548D1009AB346 /* Day 22- Binary Search Trees.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 22- Binary Search Trees.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33C5CCC822756471009AB346 /* Day 23- BST Level-Order Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 23- BST Level-Order Traversal.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -91,6 +93,7 @@
 			isa = PBXGroup;
 			children = (
 				3393B1F622A0AD6E00225FA5 /* "Hello World!" in C.c */,
+				3393B1FA22A0ADEE00225FA5 /* Sum and Difference of Two Numbers.c */,
 			);
 			path = C;
 			sourceTree = "<group>";
@@ -267,6 +270,7 @@
 				3388133A229F6211002E7A1F /* Day 27: Testing.cpp in Sources */,
 				8DF747D8225DBB14004F455A /* main.swift in Sources */,
 				8DB07A6B2262040C00179156 /* Math.swift in Sources */,
+				3393B1FB22A0ADEE00225FA5 /* Sum and Difference of Two Numbers.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
