@@ -36,6 +36,7 @@
 		33832AFA226D7DB2000F6952 /* Day 14- Scope.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 14- Scope.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33832AFB226D7EDF000F6952 /* Day 15- Linked List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 15- Linked List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33881339229F6211002E7A1F /* Day 27: Testing.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Day 27: Testing.cpp"; sourceTree = "<group>"; };
+		3393B1F322A0A48800225FA5 /* Divisible Sum Pairs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Divisible Sum Pairs.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33B8159D226727310047C820 /* Drawing Book.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Drawing Book.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33C5CCC7227548D1009AB346 /* Day 22- Binary Search Trees.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 22- Binary Search Trees.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		33C5CCC822756471009AB346 /* Day 23- BST Level-Order Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 23- BST Level-Order Traversal.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -186,6 +187,7 @@
 				33B8159D226727310047C820 /* Drawing Book.playground */,
 				CE4A1E302293AA2B00DFCF33 /* Breaking the Records.playground */,
 				CE4A1E312293ACAC00DFCF33 /* Birthday Chocolate.playground */,
+				3393B1F322A0A48800225FA5 /* Divisible Sum Pairs.playground */,
 			);
 			path = "Problem Solving";
 			sourceTree = "<group>";
